@@ -1,0 +1,10 @@
+0 - pusty
+1 - tylko jeden wierzchołek
+2 - niepołączone ze sobą wierzchołki
+3 - cykl
+4 - dużo wierzchołków/zero mostów
+5 - jeden most
+6 - linia
+7 - jeden most
+8 - z mostami
+9 - ładny graf z mostami
